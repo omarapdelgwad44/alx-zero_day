@@ -1,1 +1,1 @@
-My first readme
+Typing from Github itself
